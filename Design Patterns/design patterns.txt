@@ -1,0 +1,43 @@
+DESIGN PATTERNS
+Curso: https://www.devmedia.com.br/design-patterns-solucoes-para-problemas-em-projetos-orientado-a-objetos/31266
+Livro: Design Patterns: Elements of Reusable Object-Oriented Software (GOF)
+Livro: Padrões de Projeto - Soluções reutilizaveis de Software Orientado a Objetos
+Livro: Use a cabeça Design Patterns
+Livro: UML Essencial - 3ª ed.2004
+
+Padroes Criacionais
+- Abstract Factory
+- Builder
+- Factory Method
+- Prototype
+- Singleton*(Unico usuário)
+
+Padroes Estruturais
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy*(Representante)
+
+Padroes comportamentais
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator*
+- Mediator
+- Memento
+- Observer***
+- State*(Persistencia insert/update)
+- Strategy
+- Template Method*
+
+
+
+
+
+
+
+?Programar para interface
+?Abstração
