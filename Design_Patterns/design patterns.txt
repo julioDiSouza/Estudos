@@ -39,5 +39,5 @@ Padroes comportamentais
 
 
 
-?Programar para interface
+?Programar para interface - ver pagina 25
 ?Abstração
